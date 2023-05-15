@@ -14,6 +14,7 @@ namespace LabClases2_C2_U2
             a.G();
             b.G();
             Console.ReadKey();
+            Console.ReadLine();
 
         }
     }
